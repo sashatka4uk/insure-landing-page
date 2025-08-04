@@ -330,6 +330,8 @@ body {
 .footer__nav {
   display: flex;
   column-gap: 30px;
+  padding-top: 48px;
+  border-top: 1px solid #dadada;
 }
 
 .footer__nav__box {
